@@ -51,8 +51,7 @@ Computer & Communication Engineering
 ## 📫 Connect With Me
 
 - GitHub: [@mohamedahmed005](https://github.com/mohamedahmed005)
-- 
-linkedin: (https://www.linkedin.com/in/mohamed-ahmed-3a7789324)
+- linkedin: (https://www.linkedin.com/in/mohamed-ahmed-3a7789324)
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey into Data Engineering.
