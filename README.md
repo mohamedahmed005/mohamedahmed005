@@ -37,7 +37,7 @@ Data analysis project using Python and Pandas to clean, explore, and analyze sup
 
 **Alexandria University**  
 Computer & Communication Engineering  
-2024 – 2029
+2024 – 2028
 
 ---
 
@@ -51,7 +51,8 @@ Computer & Communication Engineering
 ## 📫 Connect With Me
 
 - GitHub: [@mohamedahmed005](https://github.com/mohamedahmed005)
-
+- 
+linkedin: (https://www.linkedin.com/in/mohamed-ahmed-3a7789324)
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey into Data Engineering.
