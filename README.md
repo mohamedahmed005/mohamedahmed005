@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Picsart_26-08-27_13-13-01-785.jpg" width="100%">
+</p>
+
 # Hi, I'm Mohamed Ahmed 👋
 
 ### Computer & Communication Engineering Student | Learning Data Engineering
