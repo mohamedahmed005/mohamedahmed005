@@ -92,8 +92,7 @@ Cleaning, analysis, and visualization of supermarket sales data.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://streak-stats.demolab.com/?user=mohamedahmed005&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed005&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph">
