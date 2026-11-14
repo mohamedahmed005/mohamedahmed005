@@ -92,7 +92,7 @@ Cleaning, analysis, and visualization of supermarket sales data.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohamedahmed005&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed005&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph">
   
 </p>
 
